@@ -1,1 +1,1 @@
-/opt/wetty/wetty-command.sh
+/opt/shared/tsconfig.json
