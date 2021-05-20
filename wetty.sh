@@ -1,3 +1,1 @@
-#!/bin/bash
-
-bash
+/opt/wetty/wetty-command.sh
